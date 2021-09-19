@@ -1,3 +1,6 @@
 [submodule "AutoSanitiser"]
 	path = AutoSanitiser
 	url = https://github.com/forgot02/AutoSanitiser
+[submodule "parking_lot"]
+	path = parking_lot
+	url = https://github.com/JayaramKarthik/parking_lot
