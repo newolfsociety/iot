@@ -1,0 +1,3 @@
+[submodule "AutoSanitiser"]
+	path = AutoSanitiser
+	url = https://github.com/forgot02/AutoSanitiser
